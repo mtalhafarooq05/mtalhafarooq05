@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Muhammad Talha Farooq 👋
 
-<!--
-**mtalhafarooq05/mtalhafarooq05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 6th Semester CS Student | Game Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+- 🎓 Studying Computer Science at **FAST-NUCES**.
+- 🛠️ Specialized in **Roblox (Luau)** and **Unity (C#)** Game Development.
+- 🤖 Passionate about **AI/ML**, specifically **RAG** and **LangChain**.
+- 📈 Created games with over **2M+ visits**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Luau, Python, C#, C++, RISC-V Assembly.
+- **AI/ML:** RAG, LangChain, Computer Vision.
+- **Tools:** Git, Linux, Docker, Unity, Roblox Studio.
+
+### 🏆 Highlights
+- 4.0 SGPA (5th Semester).
+- Professional Freelance Developer for international clients.
